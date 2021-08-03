@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "heightcalctool/1.0.0": {
+        "runtime": {
+          "heightcalctool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "heightcalctool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
